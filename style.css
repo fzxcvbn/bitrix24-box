@@ -1,3 +1,7 @@
+.summary-bitrix24-box {
+    cursor: pointer;
+    padding: 30px 0px;
+}
 .montserrat-bitrix24-box {
     font-family: Montserrat;
 }
@@ -5,6 +9,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.subelement-editorial-capabilities-bitrix24-box, .conteiner-img-bitrix24-box {
+    display: flex;
+    align-items: center;
 }
 .tarifs-bitrix24-box {
     border: 2px solid lightgrey;
@@ -42,4 +50,26 @@
 }
 .text-enterprice-bitrix24-box {
     margin-bottom: 51px;
+}
+.element-editorial-capabilities-bitrix24-box, .background-color-bitrix24-box {
+    background-color: #ebeff2;
+    padding: 3px 20px;
+}
+.background-color-bitrix24-box {
+    border-radius: 10px;
+}
+.element-editorial-capabilities-bitrix24-box {
+    border-radius: 5px;
+}
+.element-img-bitrix24-box {
+    margin: 0px 50px;
+}
+.width-img-editorial-capabilities-bitrix24-box {
+    width: 40px;
+}
+.margin-left-bitrix24-box  {
+    margin-left: 75px;
+}
+.margin-right-text-bitrix24-box {
+    margin-right: 78px;
 }
