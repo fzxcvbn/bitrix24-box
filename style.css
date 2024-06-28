@@ -1,0 +1,45 @@
+.montserrat-bitrix24-box {
+    font-family: Montserrat;
+}
+.list-element-bitrix24-box, .tarifs-bitrix24-box, .users-korpport-bitrix24-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tarifs-bitrix24-box {
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    text-align: center;
+}
+.img-bitrix24-box {
+    width: 25px;
+}
+.list-element-bitrix24-box {
+    margin-bottom: -20px;
+}
+.element-bitrix24-box {
+    margin-bottom: -7px;
+    color: grey;
+}
+.list-bitrix24-box {
+    font-size: 13px;
+}
+.price-bitrix24-box {
+    font-size: 20px;
+}
+.users-element-bitrix24-box {
+    padding: 10px;
+    font-size: 13px;
+    margin: -10px 0px -10px 0px ;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.users-50-bitrix24-box {
+    border: 2px solid #30d5c7;
+}
+.main-element-bitrix24-box {
+    margin-left: 30px;
+}
+.text-enterprice-bitrix24-box {
+    margin-bottom: 51px;
+}
